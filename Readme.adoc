@@ -40,7 +40,7 @@ Enable the required repos, install maven, install fuse and clone the project:
  * Open a new shell and enter the following commands:
 
   [demo-user@localhost ~]$ cd
-  [demo-user@localhost ~]$ cd IoT_Summit_Lab
+  [demo-user@localhost ~]$ cd Virtual_IoT_Gateway
   [demo-user@iotlab IoT_Summit_Lab]$ ./runJBossFuse.sh
 
 * Wait for the Red Hat JBoss Fuse to complete the start procedure
