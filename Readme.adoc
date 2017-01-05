@@ -137,6 +137,6 @@ Another way to verify that the message was properly processed is to take a
  
 _Note: Fuse console login/password is admin/change12_me_
 
-image:images/testResult.png[]
+image:BusinessRulesService/images/testResult.png[]
 
 *--------------------- End of Lab ---------------------*
