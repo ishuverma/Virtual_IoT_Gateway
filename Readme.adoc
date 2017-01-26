@@ -23,6 +23,8 @@ The first part of this lab is to install required software (Maven, JDK). Once th
 - Install Red Hat Enterprise Linux 7.3 Developer Preview for Arm
 - Download JBOSS Fuse 6.2.1 from the https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=jboss.fuse&downloadType=distributions[Red Hat Customer Portal] and save it in the Downloads folder
 
+image:images/download_fuse.png[]
+
 === Step 1 - Prepare the system
 
 Enable the required repos, install maven, install fuse and clone the project:
