@@ -9,7 +9,7 @@
 toc::[]
 
 == Overview
-Intelligent IoT Gateway is a key component of enterprise Internet of Things (IoT) as it enables real time  decision-making at the edge, secures downstream devices and optimizes network utilization. In this lab, you'll learn how to build the Intelligent IoT Gateway with an Arm 64 platform - for this lab we used APM's Mustang platform but any other Arm 64 platform with RHEL should work as well. KEy components of the Gateway are:
+Intelligent IoT Gateway is a key component of enterprise Internet of Things (IoT) as it enables real time  decision-making at the edge, secures downstream devices and optimizes network utilization. In this lab, you'll learn how to build the Intelligent IoT Gateway with an Arm 64 platform - for this lab we used APM's Mustang platform but any other Arm 64 platform with RHEL should work as well. Key components of the Gateway are:
 
 * *Red Hat Enterprise Linux Developer Preview for Arm* to provide Enterprise class foundation
 * *JBOSS Fuse* to transform sensor data and route it to end points
