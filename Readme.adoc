@@ -143,4 +143,3 @@ _Note: Fuse console login/password is admin/change12_me_
 image:BusinessRulesService/images/testResult.png[]
 
 *--------------------- End of Lab ---------------------*
-Test
